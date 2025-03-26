@@ -1,13 +1,10 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Machine learning app: Hot-work tool steels 
 ```
-⬆️ (Replace above with your app's name)
-```
-
-Description of the app ...
+Machine learning app for predicting the mechanical properties of hot-work tool steels.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://machine.learning.project0.streamlit.app/)
 
 ## GitHub Codespaces
 
